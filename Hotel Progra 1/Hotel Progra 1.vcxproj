@@ -143,7 +143,7 @@
     <ClCompile Include="Contenedora.cpp" />
     <ClCompile Include="Control.cpp" />
     <ClCompile Include="Habitacion.cpp" />
-    <ClCompile Include="Hotel Progra 1.cpp" />
+    <ClCompile Include="main.cpp" />
     <ClCompile Include="Informacion.cpp" />
   </ItemGroup>
   <ItemGroup>
